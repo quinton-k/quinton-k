@@ -41,6 +41,3 @@ I'm always eager to learn new technologies and improve my skills. Currently, I'm
 ## 💬 Get in Touch
 
 Feel free to reach out to me for collaboration, suggestions, or just to say hi!
-
-- **Email:** Unavailable
-- **LinkedIn:** [Quinton](https://www.linkedin.com/in/quinton-kushner-9402a7201)
