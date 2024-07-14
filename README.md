@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a passionate fullstack developer with a keen i
 Datcord is a Discord application that aims to provide a uniquely configurable experience for each server it is in.
 
 - **Technologies:** Java, Spring Boot, PostgreSQL
-- **GitHub:** [Datcord](https://github.com/Discord-or-Datcord)(#)
+- **GitHub:** [Datcord](https://github.com/Discord-or-Datcord)
 
 ## 📝 Coding Philosophy
 
@@ -43,4 +43,4 @@ I'm always eager to learn new technologies and improve my skills. Currently, I'm
 Feel free to reach out to me for collaboration, suggestions, or just to say hi!
 
 - **Email:** Unavailable
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/quinton-kushner-9402a7201)(#)
+- **LinkedIn:** [Quinton](https://www.linkedin.com/in/quinton-kushner-9402a7201)
